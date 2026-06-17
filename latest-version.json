@@ -1,7 +1,7 @@
-﻿{
-    "apkUrl":  "https://github.com/karthi-98/realtorsbridge-application-releases/releases/download/v1.0.1/realtorsbridge-1.0.1-2.apk",
+{
     "versionCode":  2,
     "versionName":  "1.0.1",
+    "apkUrl":  "https://github.com/karthi-98/realtorsbridge-application-releases/releases/download/v1.0.1/realtorsbridge-1.0.1-2.apk",
     "forceUpdate":  false,
     "releaseNotes":  "Production update 1.0.1"
 }
